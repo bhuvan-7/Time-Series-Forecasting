@@ -1,5 +1,5 @@
 # Time-Series-Forecasting
-Overview
+Overview:
 The goal of this project is to leverage historical sales data to forecast future sales trends. Accurate sales forecasting is critical for businesses to optimize inventory management, plan marketing strategies, and improve overall financial performance. This project utilizes various machine learning and statistical techniques to achieve reliable and accurate forecasts.
 
 Features
